@@ -1,1 +1,1 @@
-# Recognizing-Human-activities-using-mobile-phone-IMU-sensors
+# Human activity recognition using mobile phone IMU sensors
